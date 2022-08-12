@@ -1,2 +1,2 @@
 # grbl-cnc-servo-28byj-48
-Codigo para armado de CNC sin shield
+grbl-servo-zip: Codigo para armado de CNC sin shield y con servomotor
